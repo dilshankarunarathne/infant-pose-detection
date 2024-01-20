@@ -65,3 +65,4 @@ data/example_video/video_exampl.mov
 models/model.h5
 models/trained_model.h5
 models/original_cmu_model.h5
+image/infant.gif
