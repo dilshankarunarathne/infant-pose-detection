@@ -63,3 +63,4 @@ data/pose_estimates/clinical/py/pose_estimates.pkl
 data/pose_estimates/youtube/py/pose_estimates.pkl
 data/example_video/video_exampl.mov
 models/model.h5
+models/trained_model.h5
