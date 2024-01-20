@@ -60,3 +60,4 @@ target/
 
 /gz/
 data/pose_estimates/clinical/py/pose_estimates.pkl
+data/pose_estimates/youtube/py/pose_estimates.pkl
